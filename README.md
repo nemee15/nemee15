@@ -54,9 +54,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nemee15/nemee15/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nemee15/nemee15/main/assets/nk-snake.svg" alt="N K Snake" />
 </p>
-
 ---
 
 ## 🧠 Currently Learning
