@@ -53,76 +53,8 @@
 
 ## 🐍 Contribution 
 <p align="center">
-<svg width="350" height="140" viewBox="0 0 350 140" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .cell { fill:#1E3A8A; opacity:0.2; }
-    .snake { fill:#1E3A8A; animation: move 2.5s linear infinite; }
-    @keyframes move {
-      0% { opacity:1; }
-      5% { opacity:0.2; }
-      10% { opacity:1; }
-      15% { opacity:0.2; }
-      20% { opacity:1; }
-      25% { opacity:0.2; }
-      30% { opacity:1; }
-      35% { opacity:0.2; }
-      40% { opacity:1; }
-      45% { opacity:0.2; }
-      50% { opacity:1; }
-      55% { opacity:0.2; }
-      60% { opacity:1; }
-      65% { opacity:0.2; }
-      70% { opacity:1; }
-      75% { opacity:0.2; }
-      80% { opacity:1; }
-      85% { opacity:0.2; }
-      90% { opacity:1; }
-      95% { opacity:0.2; }
-      100% { opacity:1; }
-    }
-  </style>
-
-  <g transform="translate(50,20)">
-    <!-- Letter N (14x14 grid positions) -->
-    <rect class="cell" x="0" y="0" width="16" height="16"/>
-    <rect class="cell" x="0" y="16" width="16" height="16"/>
-    <rect class="cell" x="0" y="32" width="16" height="16"/>
-    <rect class="cell" x="0" y="48" width="16" height="16"/>
-    <rect class="cell" x="0" y="64" width="16" height="16"/>
-    <rect class="cell" x="16" y="16" width="16" height="16"/>
-    <rect class="cell" x="32" y="32" width="16" height="16"/>
-    <rect class="cell" x="48" y="0" width="16" height="16"/>
-    <rect class="cell" x="48" y="16" width="16" height="16"/>
-    <rect class="cell" x="48" y="32" width="16" height="16"/>
-    <rect class="cell" x="48" y="48" width="16" height="16"/>
-    <rect class="cell" x="48" y="64" width="16" height="16"/>
-
-    <!-- Letter K -->
-    <rect class="cell" x="80" y="0" width="16" height="16"/>
-    <rect class="cell" x="80" y="16" width="16" height="16"/>
-    <rect class="cell" x="80" y="32" width="16" height="16"/>
-    <rect class="cell" x="80" y="48" width="16" height="16"/>
-    <rect class="cell" x="80" y="64" width="16" height="16"/>
-    <rect class="cell" x="96" y="32" width="16" height="16"/>
-    <rect class="cell" x="112" y="16" width="16" height="16"/>
-    <rect class="cell" x="112" y="48" width="16" height="16"/>
-
-    <!-- Snake animation flowing across letters -->
-    <rect class="snake" x="0" y="0" width="16" height="16"/>
-    <rect class="snake" x="0" y="16" width="16" height="16"/>
-    <rect class="snake" x="0" y="32" width="16" height="16"/>
-    <rect class="snake" x="0" y="48" width="16" height="16"/>
-    <rect class="snake" x="0" y="64" width="16" height="16"/>
-    <rect class="snake" x="16" y="16" width="16" height="16"/>
-    <rect class="snake" x="32" y="32" width="16" height="16"/>
-    <rect class="snake" x="48" y="48" width="16" height="16"/>
-    <rect class="snake" x="80" y="64" width="16" height="16"/>
-    <rect class="snake" x="96" y="32" width="16" height="16"/>
-    <rect class="snake" x="112" y="48" width="16" height="16"/>
-  </g>
-</svg>
+  <img src="https://raw.githubusercontent.com/nemee15/nemee15/main/assets/nk-snake.svg" alt="N K Snake" />
 </p>
-
 ---
 
 ## 🧠 Currently Learning
