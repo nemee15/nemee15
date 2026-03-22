@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Clean+UI+%26+Great+UX;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=1E3A8A&background=0D1117&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Clean+UI+%26+Great+UX;Always+Learning+New+Things" />
 </p>
 
 ---
