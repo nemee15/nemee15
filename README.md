@@ -53,7 +53,7 @@
 
 ## 🐍 Contribution 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nemee15/nemee15/main/assets/nk-snake.svg" alt="N K Snake" />
+  <img src="https://raw.githubusercontent.com/nemee15/nemee15/main/assets/nk-snake.svg" alt="nemee" />
 </p>
 ---
 
