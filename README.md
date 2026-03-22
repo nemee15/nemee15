@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm NEMEENATHAN
 
 <h3 align="center">🚀 Full-Stack Developer | Web Developer | UI Enthusiast</h3>
 
@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemee15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemee15&theme=tokyonight" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [your-link]
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/nemeenathan-e
+- 📧 Email: nemeeselvi15@gmail.com
 
 ---
 
