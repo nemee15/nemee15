@@ -54,7 +54,59 @@
 ## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nemee15/nemee15/main/assets/nk-snake.svg" alt="N K Snake" />
+  <svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .cell { fill: #1E3A8A; opacity: 0.2; }
+      .snake { fill: #1E3A8A; animation: move 3s linear infinite; }
+      @keyframes move {
+        0%   { opacity: 1; }
+        10%  { opacity: 0.2; }
+        20%  { opacity: 1; }
+        30%  { opacity: 0.2; }
+        40%  { opacity: 1; }
+        50%  { opacity: 0.2; }
+        60%  { opacity: 1; }
+        70%  { opacity: 0.2; }
+        80%  { opacity: 1; }
+        90%  { opacity: 0.2; }
+        100% { opacity: 1; }
+      }
+    </style>
+
+    <!-- Grid background -->
+    <g transform="translate(50,20)">
+      <!-- Letter N -->
+      <rect class="cell" x="0" y="0" width="16" height="16"/>
+      <rect class="cell" x="0" y="16" width="16" height="16"/>
+      <rect class="cell" x="0" y="32" width="16" height="16"/>
+      <rect class="cell" x="0" y="48" width="16" height="16"/>
+      <rect class="cell" x="0" y="64" width="16" height="16"/>
+      <rect class="cell" x="16" y="16" width="16" height="16"/>
+      <rect class="cell" x="32" y="32" width="16" height="16"/>
+      <rect class="cell" x="48" y="0" width="16" height="16"/>
+      <rect class="cell" x="48" y="16" width="16" height="16"/>
+      <rect class="cell" x="48" y="32" width="16" height="16"/>
+      <rect class="cell" x="48" y="48" width="16" height="16"/>
+      <rect class="cell" x="48" y="64" width="16" height="16"/>
+
+      <!-- Letter K -->
+      <rect class="cell" x="80" y="0" width="16" height="16"/>
+      <rect class="cell" x="80" y="16" width="16" height="16"/>
+      <rect class="cell" x="80" y="32" width="16" height="16"/>
+      <rect class="cell" x="80" y="48" width="16" height="16"/>
+      <rect class="cell" x="80" y="64" width="16" height="16"/>
+      <rect class="cell" x="96" y="32" width="16" height="16"/>
+      <rect class="cell" x="112" y="16" width="16" height="16"/>
+      <rect class="cell" x="112" y="48" width="16" height="16"/>
+
+      <!-- Snake overlay -->
+      <rect class="snake" x="0" y="0" width="16" height="16"/>
+      <rect class="snake" x="16" y="16" width="16" height="16"/>
+      <rect class="snake" x="32" y="32" width="16" height="16"/>
+      <rect class="snake" x="48" y="48" width="16" height="16"/>
+      <rect class="snake" x="80" y="64" width="16" height="16"/>
+    </g>
+  </svg>
 </p>
 
 ---
